@@ -1,0 +1,4 @@
+name: FileEditor
+version: '${project.version}'
+main: starter.fileeditor.FileEditor
+api-version: 1.19
